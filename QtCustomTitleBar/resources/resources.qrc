@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/recources">
+    <qresource prefix="/resources">
         <file>style/appstyles.qss</file>
         <file>icons/minimum.png</file>
         <file>icons/maximum.png</file>
